@@ -13,7 +13,9 @@ This dashboard delivers granular insights into transactional trends, helping sta
 ---
 
 ## 🖥️ Dashboard Preview
-![Mobile Sales Overview](images/mobile_sales_overview.png)
+![Mobile Sales Overview](images/Mobile_Sales_Overview.png)
+![Mobile Sales Overview](images/MTD_Report.png)
+![Mobile Sales Overview](images/Same_Period_Last_Year.png)
 
 ---
 
